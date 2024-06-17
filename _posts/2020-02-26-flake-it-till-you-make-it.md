@@ -3,7 +3,6 @@ layout: post
 title: My Work Experiences (High School)
 subtitle: FRC Team Frog Force Robotics Chassis Group Lead
 cover-img: /assets/img/path.jpg
-share-img: /assets/img/path.jpg
 tags: [test]
 author: Aayush Jagtap
 ---
