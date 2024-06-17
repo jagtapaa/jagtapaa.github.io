@@ -1,16 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: The Objective
 ---
 
-My name is Inigo Montoya. I have the following qualities:
-
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
-
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+Dedicated and focused computer science student with a solid background in coding languages like Python and Java. Learning C++ and use analytical reasoning and problem-solving abilities to contribute to creative software solutions. Aiming to use academic knowledge to solve real-world problems in a dynamic team environment while earning a degree in computer science. I'm committed to lifelong learning, and I'm looking for opportunities to advance as a computer scientist and leave a lasting impression on the IT sector.
